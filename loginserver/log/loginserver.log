@@ -1,0 +1,94 @@
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 16:48:36 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 16:51:30 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 16:52:40 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 16:58:05 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:00:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:13:59 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 17:30:44 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-07-31 17:31:09 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Trying to register gameserver: 1 [127.0.0.1]
+2025-07-31 17:31:09 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Gameserver registration failed.
+2025-07-31 17:31:14 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Trying to register gameserver: 1 [127.0.0.1]
+2025-07-31 17:31:14 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Gameserver registration failed.
+2025-07-31 17:31:19 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Trying to register gameserver: 1 [127.0.0.1]
+2025-07-31 17:31:19 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Gameserver registration failed.
+2025-07-31 17:31:24 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Trying to register gameserver: 1 [127.0.0.1]
+2025-07-31 17:31:24 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Gameserver registration failed.
+2025-07-31 17:31:29 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Trying to register gameserver: 1 [127.0.0.1]
+2025-07-31 17:31:29 INFO  [org.mmocore.loginserver.gameservercon.gspackets.AuthRequest] Gameserver registration failed.
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-07-31 19:06:29 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-08-03 17:38:44 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-08-03 17:38:44 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-08-03 17:38:45 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-08-03 17:38:45 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-08-03 17:38:45 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-08-03 17:38:45 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-08-03 17:38:45 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.Config] Loaded 127 server names
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.Config] Loaded whirlpool2 as default crypt.
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.Config] Cached 10 KeyPairs for RSA communication
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.Config] Stored 20 keys for Blowfish communication
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.GameServerManager] Loaded 0 registered GameServer(s).
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.LoginServer] Listening for gameservers on *:9014
+2025-08-03 19:08:22 INFO  [org.mmocore.loginserver.LoginServer] Listening for clients on *:2106
