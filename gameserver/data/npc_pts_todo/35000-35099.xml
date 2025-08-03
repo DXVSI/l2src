@@ -1,0 +1,5015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<npc id="35010" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35011" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35012" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35013" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35014" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35015" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35016" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35017" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35018" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35019" name="Наемник" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="67"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2295"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1251"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="625"/>
+		<set name="basePDef" value="282"/>
+		<set name="baseMAtk" value="427"/>
+		<set name="baseMDef" value="206"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35020" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35021" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35022" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35023" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35024" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35025" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35026" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35027" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35028" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35029" name="Наемник Рассвета" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35030" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35031" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35032" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35033" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35034" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35035" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35036" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35037" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35038" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35039" name="Член Гильдии Элитных Наемников" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="76"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2758"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1541"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="824"/>
+		<set name="basePDef" value="324"/>
+		<set name="baseMAtk" value="563"/>
+		<set name="baseMDef" value="237"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35040" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35041" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35042" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35043" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35044" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35045" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35046" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35047" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35048" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35049" name="Элитный Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="72"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2540"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1410"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="732"/>
+		<set name="basePDef" value="305"/>
+		<set name="baseMAtk" value="500"/>
+		<set name="baseMDef" value="223"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35050" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35051" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35052" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35053" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35054" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35055" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35056" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35057" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35058" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35059" name="Новобранец" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="64"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2142"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.5"/>
+		<set name="baseMpMax" value="1158"/>
+		<set name="baseMpReg" value="2"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="562"/>
+		<set name="basePDef" value="267"/>
+		<set name="baseMAtk" value="384"/>
+		<set name="baseMDef" value="195"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35060" name="Наемник Нефилим" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="24.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="596964"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="981.0"/>
+		<set name="baseMpMax" value="1663"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="723"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="1"/>
+		<set name="basePAtk" value="2920"/>
+		<set name="basePDef" value="362"/>
+		<set name="baseMAtk" value="5983"/>
+		<set name="baseMDef" value="265"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="36"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4071" level="4"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="15"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+			<skill id="5112" level="7"/>
+			<skill id="5113" level="7"/>
+		</skills>
+	</npc>
+	<npc id="35061" name="Наемник Нефилим" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="6.5"/>
+		<set name="collision_height" value="21.96"/>
+		<set name="level" value="82"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="585704"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="989.0"/>
+		<set name="baseMpMax" value="1561"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="672"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="1"/>
+		<set name="basePAtk" value="2704"/>
+		<set name="basePDef" value="350"/>
+		<set name="baseMAtk" value="5540"/>
+		<set name="baseMDef" value="256"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="195"/>
+		<set name="baseWalkSpd" value="33"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,mercenary_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4071" level="4"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="15"/>
+			<skill id="4414" level="3"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="23"/>
+			<skill id="5052" level="6"/>
+			<skill id="5114" level="7"/>
+		</skills>
+	</npc>
+	<npc id="35062" name="Лагерь" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="80.0"/>
+		<set name="level" value="1"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="40"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2.0"/>
+		<set name="baseMpMax" value="40"/>
+		<set name="baseMpReg" value="0"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="8"/>
+		<set name="basePDef" value="44"/>
+		<set name="baseMAtk" value="6"/>
+		<set name="baseMDef" value="33"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="1000"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4390" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="19"/>
+		</skills>
+	</npc>
+	<npc id="35063" name="Священный Артефакт Глудио" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="25.0"/>
+		<set name="collision_height" value="98.0"/>
+		<set name="level" value="20"/>
+		<set name="type" value="Artefact"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="343"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="2.5"/>
+		<set name="baseMpMax" value="192"/>
+		<set name="baseMpReg" value="1"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="44"/>
+		<set name="basePDef" value="87"/>
+		<set name="baseMAtk" value="30"/>
+		<set name="baseMDef" value="64"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="300"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4390" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="19"/>
+		</skills>
+	</npc>
+	<npc id="35064" name="Барон Ливен Валднер" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="83"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="38356"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="5332"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="3298"/>
+		<set name="basePDef" value="354"/>
+		<set name="baseMAtk" value="751"/>
+		<set name="baseMDef" value="259"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="13"/>
+			<skill id="4413" level="13"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35065" name="Кроненберг" title="Сэр">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="81"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="34618"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="5126"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="3037"/>
+		<set name="basePDef" value="346"/>
+		<set name="baseMAtk" value="691"/>
+		<set name="baseMDef" value="253"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="10"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="13"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35066" name="Рыцарь Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="79"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3128"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="930"/>
+		<set name="basePDef" value="337"/>
+		<set name="baseMAtk" value="635"/>
+		<set name="baseMDef" value="247"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="80"/>
+			<defence attribute="water" value="80"/>
+			<defence attribute="wind" value="80"/>
+			<defence attribute="earth" value="80"/>
+			<defence attribute="holy" value="80"/>
+			<defence attribute="unholy" value="80"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35067" name="Маг Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35068" name="Маг Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35069" name="Гвардеец" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35070" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35071" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35072" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35073" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35074" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35075" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35076" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35077" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35078" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35079" name="Рыцарь Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="79"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3128"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1641"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="930"/>
+		<set name="basePDef" value="337"/>
+		<set name="baseMAtk" value="635"/>
+		<set name="baseMDef" value="247"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="80"/>
+			<defence attribute="water" value="80"/>
+			<defence attribute="wind" value="80"/>
+			<defence attribute="earth" value="80"/>
+			<defence attribute="holy" value="80"/>
+			<defence attribute="unholy" value="80"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35080" name="Маг Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4026" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35081" name="Маг Гвардии" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Mystic"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="60"/>
+		<set name="baseCON" value="57"/>
+		<set name="baseDEX" value="31"/>
+		<set name="baseINT" value="51"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="1"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4027" level="1"/>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="5"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35082" name="Гвардеец" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="77"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2857"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1574"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="856"/>
+		<set name="basePDef" value="328"/>
+		<set name="baseMAtk" value="585"/>
+		<set name="baseMDef" value="240"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35083" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35084" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35085" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35086" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35087" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35088" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35089" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="80"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="11"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35090" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35091" name="Охранник" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="Defender"/>
+		<set name="baseAtkRange" value="1100"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="8"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="1200"/>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="16"/>
+			<skill id="4409" level="11"/>
+			<skill id="4410" level="18"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="9"/>
+			<skill id="4416" level="22"/>
+		</skills>
+	</npc>
+	<npc id="35092" name="Хранитель Портала" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleDoormen"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="600"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35093" name="Хранитель Портала" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleDoormen"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="600"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35094" name="Хранитель Портала" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleDoormen"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="door_clan,gludio_siege_clan" range="600"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="23"/>
+		</skills>
+	</npc>
+	<npc id="35095" name="Хранитель Массового Портала" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleTeleporter"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="14"/>
+		</skills>
+	</npc>
+	<npc id="35096" name="Привратник Внешних Владений" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleDoormen"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="300"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="14"/>
+		</skills>
+	</npc>
+	<npc id="35097" name="Привратник Внутренних Владений" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleDoormen"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="300"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="14"/>
+		</skills>
+	</npc>
+	<npc id="35098" name="Кузнец" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="7.0"/>
+		<set name="collision_height" value="16.5"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleBlacksmith"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="300"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="18"/>
+		</skills>
+	</npc>
+	<npc id="35099" name="Рабочий Склада" title="Глудио">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="75"/>
+		<set name="type" value="CastleWarehouse"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2677"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1508"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="795"/>
+		<set name="basePDef" value="319"/>
+		<set name="baseMAtk" value="543"/>
+		<set name="baseMDef" value="234"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction range="300"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="40"/>
+			<defence attribute="water" value="40"/>
+			<defence attribute="wind" value="40"/>
+			<defence attribute="earth" value="40"/>
+			<defence attribute="holy" value="40"/>
+			<defence attribute="unholy" value="40"/>
+		</attributes>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4408" level="1"/>
+			<skill id="4409" level="1"/>
+			<skill id="4410" level="11"/>
+			<skill id="4411" level="11"/>
+			<skill id="4412" level="11"/>
+			<skill id="4413" level="11"/>
+			<skill id="4414" level="2"/>
+			<skill id="4415" level="3"/>
+			<skill id="4416" level="18"/>
+		</skills>
+	</npc>
+</list>

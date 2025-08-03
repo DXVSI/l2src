@@ -1,0 +1,4353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<npc id="19100" name="Антарас Прозрачности 5" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19101" name="Антарас Прозрачности 6" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19102" name="Антарас Прозрачности 7" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19103" name="Антарас Прозрачности 8" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19104" name="Антарас Прозрачности 9" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19105" name="Антарас Прозрачности 10" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19106" name="Антарас Прозрачности 11" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19107" name="Антарас Прозрачности 12" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19108" name="Антарас Прозрачности 13" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19109" name="Антарас Прозрачности 14" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19110" name="Антарас Прозрачности 15" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19111" name="Антарас Прозрачности 16" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19112" name="Антарас Прозрачности 17" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19113" name="Антарас Прозрачности 18" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19114" name="Драгоценный Камень Прозрачности 3" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19115" name="Ядовитое Облако" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="94"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="10"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2169"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="240"/>
+			<defence attribute="water" value="240"/>
+			<defence attribute="wind" value="240"/>
+			<defence attribute="earth" value="240"/>
+			<defence attribute="holy" value="240"/>
+			<defence attribute="unholy" value="240"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19116" name="Драгоценный Камень" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19117" name="Разлагающийся Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="27.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5467" level="6"/>
+		</skills>
+	</npc>
+	<npc id="19118" name="Разлагающийся Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="13.0"/>
+		<set name="collision_height" value="26.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5467" level="6"/>
+		</skills>
+	</npc>
+	<npc id="19119" name="Харнак Прозрачности 1" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="11340"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="3286"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19120" name="Харнак Прозрачности 2" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19121" name="Алтарь Ритуалов" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="160.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19122" name="Алтарь Ритуалов" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="160.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19123" name="Алтарь Шилен" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="160.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19124" name="Энергобомба" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5465" level="2"/>
+		</skills>
+	</npc>
+	<npc id="19125" name="�садора" title="Великий Волшебник">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="96"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="530201"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2242"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="708857856"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="16767688"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="260"/>
+			<defence attribute="water" value="260"/>
+			<defence attribute="wind" value="260"/>
+			<defence attribute="earth" value="260"/>
+			<defence attribute="holy" value="260"/>
+			<defence attribute="unholy" value="260"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19126" name="Рядовой Рейнджер" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="40"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="957"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="406"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="1"/>
+		<set name="basePDef" value="120"/>
+		<set name="baseMAtk" value="1"/>
+		<set name="baseMDef" value="100"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="anti_mob_guard" range="2"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="20"/>
+			<defence attribute="water" value="20"/>
+			<defence attribute="wind" value="20"/>
+			<defence attribute="earth" value="20"/>
+			<defence attribute="holy" value="20"/>
+			<defence attribute="unholy" value="20"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19127" name="Глава Рейнджеров" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="1914"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="406"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="1"/>
+		<set name="basePDef" value="120"/>
+		<set name="baseMAtk" value="1"/>
+		<set name="baseMDef" value="120"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19128" name="Фело" title="Рыцарь Балтуса">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="9.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19129" name="Эйтельд" title="Рыцарь Балтуса">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="7.0"/>
+		<set name="collision_height" value="21.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19130" name="Фаулла" title="Рыцарь Балтуса">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19131" name="Лаш" title="Адъютант Поддержки">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="23.75"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19132" name="Кейл" title="Гонец Балтуса">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19133" name="Член Экспедиции" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19134" name="Антарас Деко 1" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19135" name="Антарас Деко 2" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="125.0"/>
+		<set name="collision_height" value="43.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19136" name="Член Экспедиции" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19137" name="Член Экспедиции" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="9.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19138" name="Антарас Деко 3" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19139" name="Антарас Деко 4" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="23.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19140" name="Антарас Деко 5" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19141" name="Закаленный Офицер" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="500"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="6710"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="0"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="0"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="anti_mob_guard" range="2"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19142" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19143" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19144" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19145" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19146" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19147" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19148" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19149" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19150" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19151" name="Жертва Алтаря" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19152" name="Закаленный Воитель" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="250"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="258"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="133"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="120"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="anti_mob_guard" range="2"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19153" name="Закаленный Воитель" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="250"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="80"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="258"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="133"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="120"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="35"/>
+		<set name="shots" value="NONE"/>
+		<faction name="anti_mob_guard" range="2"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19154" name="Офицер Боя" title="Наставник Боя">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="17.0"/>
+		<set name="collision_height" value="43.5"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="447"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="204"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="26"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19155" name="Офицер Атаки" title="Наставник Боя">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="12.0"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="17"/>
+		<set name="type" value="FriendlyMob"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="1585"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="17.535"/>
+		<set name="baseMpMax" value="133"/>
+		<set name="baseMpReg" value="1"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="62"/>
+		<set name="basePDef" value="120"/>
+		<set name="baseMAtk" value="3"/>
+		<set name="baseMDef" value="80"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="170"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="helper_clan" range="1000"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19156" name="Служитель" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.5"/>
+		<set name="collision_height" value="25.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseRunSpd" value="80"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="250"/>
+			<defence attribute="earth" value="135"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4414" level="1"/>
+			<skill id="4416" level="6"/>
+			<skill id="5463" level="7"/>
+		</skills>
+	</npc>
+	<npc id="19157" name="Воскрешенный Дух" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="6.5"/>
+		<set name="collision_height" value="18.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="2"/>
+		</skills>
+	</npc>
+	<npc id="19158" name="Воскрешенный Дух" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="9.4"/>
+		<set name="collision_height" value="20.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="2"/>
+		</skills>
+	</npc>
+	<npc id="19159" name="Земляной Червь Траскен" title="Врата Ада">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="500.0"/>
+		<set name="collision_height" value="1450.0"/>
+		<set name="level" value="98"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="27406"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="3567"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="1971"/>
+		<set name="basePDef" value="1341"/>
+		<set name="baseMAtk" value="1663"/>
+		<set name="baseMDef" value="1250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="255"/>
+			<defence attribute="water" value="280"/>
+			<defence attribute="wind" value="280"/>
+			<defence attribute="earth" value="280"/>
+			<defence attribute="holy" value="280"/>
+			<defence attribute="unholy" value="280"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5465" level="12"/>
+		</skills>
+	</npc>
+	<npc id="19160" name="Траджан" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="90.0"/>
+		<set name="collision_height" value="190.0"/>
+		<set name="level" value="87"/>
+		<set name="type" value="RaidBoss"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="2602735"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="45645"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="19971"/>
+		<set name="basePDef" value="1341"/>
+		<set name="baseMAtk" value="11663"/>
+		<set name="baseMDef" value="1250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="155"/>
+			<defence attribute="water" value="180"/>
+			<defence attribute="wind" value="180"/>
+			<defence attribute="earth" value="180"/>
+			<defence attribute="holy" value="180"/>
+			<defence attribute="unholy" value="180"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5465" level="12"/>
+		</skills>
+	</npc>
+	<npc id="19161" name="Зона Вулканов" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="22.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="4"/>
+			<skill id="5462" level="2"/>
+		</skills>
+	</npc>
+	<npc id="19162" name="Магическая Баллиста" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="10.0"/>
+		<set name="collision_height" value="160.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19163" name="Деко Пустоши 1" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="24.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="1"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19164" name="Щупальце" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="55.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="135"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19165" name="Щупальце" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="55.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="135"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19166" name="Орк Клана" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="54.5"/>
+		<set name="level" value="95"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="230"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="260"/>
+			<defence attribute="water" value="260"/>
+			<defence attribute="wind" value="260"/>
+			<defence attribute="earth" value="260"/>
+			<defence attribute="holy" value="260"/>
+			<defence attribute="unholy" value="260"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19167" name="Орк Клана" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="50.0"/>
+		<set name="level" value="95"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="230"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="260"/>
+			<defence attribute="water" value="260"/>
+			<defence attribute="wind" value="260"/>
+			<defence attribute="earth" value="260"/>
+			<defence attribute="holy" value="260"/>
+			<defence attribute="unholy" value="260"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19168" name="Миньон Орка Клана" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="28.0"/>
+		<set name="collision_height" value="33.5"/>
+		<set name="level" value="95"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="230"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="260"/>
+			<defence attribute="water" value="260"/>
+			<defence attribute="wind" value="260"/>
+			<defence attribute="earth" value="260"/>
+			<defence attribute="holy" value="260"/>
+			<defence attribute="unholy" value="260"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19169" name="Миньон Орка Клана" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="50.0"/>
+		<set name="level" value="95"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="230"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="260"/>
+			<defence attribute="water" value="260"/>
+			<defence attribute="wind" value="260"/>
+			<defence attribute="earth" value="260"/>
+			<defence attribute="holy" value="260"/>
+			<defence attribute="unholy" value="260"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19170" name="Болото Крови Прозрачности 1" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="0.1"/>
+		<set name="collision_height" value="0.1"/>
+		<set name="level" value="80"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="120"/>
+			<defence attribute="water" value="120"/>
+			<defence attribute="wind" value="120"/>
+			<defence attribute="earth" value="120"/>
+			<defence attribute="holy" value="120"/>
+			<defence attribute="unholy" value="120"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19171" name="Щупальце" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="20.0"/>
+		<set name="collision_height" value="120.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="135"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19172" name="Траджан" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="90.0"/>
+		<set name="collision_height" value="190.0"/>
+		<set name="level" value="88"/>
+		<set name="type" value="RaidBoss"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="1093126"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="22800"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="305082624"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="8588328"/>
+		<set name="basePAtk" value="19971"/>
+		<set name="basePDef" value="1341"/>
+		<set name="baseMAtk" value="11663"/>
+		<set name="baseMDef" value="1250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="180"/>
+		<set name="baseWalkSpd" value="45"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="155"/>
+			<defence attribute="water" value="180"/>
+			<defence attribute="wind" value="180"/>
+			<defence attribute="earth" value="180"/>
+			<defence attribute="holy" value="180"/>
+			<defence attribute="unholy" value="180"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19173" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19174" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19175" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="18.4"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19176" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19177" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19178" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="19.7"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19179" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="18.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19180" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19181" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="21.3"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19182" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="93.0"/>
+		<set name="collision_height" value="90.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="10"/>
+		<set name="baseWalkSpd" value="10"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19183" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="45.0"/>
+		<set name="collision_height" value="47.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="60"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19184" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19185" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19186" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="23.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19187" name="Труп" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="13.0"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="3290"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="1675"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="1"/>
+		<set name="baseWalkSpd" value="1"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19188" name="Тома" title="Мастер">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="18.4"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19189" name="Осадный Голем" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="60.0"/>
+		<set name="collision_height" value="140.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="40"/>
+		<set name="baseWalkSpd" value="40"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19190" name="Осадное Орудие" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="45.0"/>
+		<set name="collision_height" value="47.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="SiegeSummon"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="60"/>
+		<set name="baseWalkSpd" value="60"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19191" name="Крото" title="Глава">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="27.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseWalkSpd" value="35"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19192" name="Бронк" title="Главный Кузнец">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19193" name="Роджин" title="Посыльный">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19194" name="Сильвера" title="Кузнец">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="20"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19195" name="Вопи" title="Хранитель Портала">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="21.3"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19196" name="Солдат" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19197" name="Солдат" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19198" name="Торокко" title="Посыльный">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19199" name="Мердок" title="Рабочий Склада">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="level" value="85"/>
+		<set name="type" value="Npc"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="78"/>
+		<set name="baseCON" value="73"/>
+		<set name="baseDEX" value="40"/>
+		<set name="baseINT" value="31"/>
+		<set name="baseWIT" value="65"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMDef" value="250"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseRunSpd" value="100"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="160"/>
+			<defence attribute="water" value="160"/>
+			<defence attribute="wind" value="160"/>
+			<defence attribute="earth" value="160"/>
+			<defence attribute="holy" value="160"/>
+			<defence attribute="unholy" value="160"/>
+		</attributes>
+		<skills/>
+	</npc>
+</list>

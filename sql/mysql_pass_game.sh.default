@@ -1,0 +1,4 @@
+USER=l2j
+PASS=l2j
+DBNAME=l2jgs
+DBHOST=localhost

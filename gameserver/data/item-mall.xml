@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+    <!--
+	category = Best 		2
+	category = Event		1
+	category = Enchant		1
+	category = Supplies		2
+	category = Decorating	3
+	category = Package		4
+	category = Others		5
+	Base Parameters: <product id="0" name="" category="5" price="0" is_event="false" is_best="false" is_new="false" on_sale="false" sale_start_date="1980/01/01 08:00" sale_end_date="2037/06/01 08:00">
+	-->
+	<product id="1010020" name="Rune of Exp. Points 50% - 10 hours" category="1" price="87" is_best="true" is_new="true" on_sale="true">
+		<component item_id="20338" count="1"/>
+	</product>
+</list>

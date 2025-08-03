@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<!--Create by ALF-->
+<list>
+	<race_skill_tree>
+		<race id="0">
+			<skill id="1901" level="1" min_level="85"/> <!-- Ясная Цель -->
+			<skill id="1902" level="1" min_level="85"/> <!-- Крепкая Психика -->
+			<skill id="1903" level="1" min_level="85"/> <!-- Активность -->
+			<skill id="1904" level="1" min_level="85"/> <!-- Упорство -->
+		</race>
+		<race id="1">
+			<skill id="1905" level="1" min_level="85"/> <!-- Стремительность-->
+			<skill id="1906" level="1" min_level="85"/> <!-- Благословенная Вода -->
+			<skill id="1907" level="1" min_level="85"/> <!-- Предвидение -->
+			<skill id="1908" level="1" min_level="85"/> <!-- Чуткость -->
+		</race>
+		<race id="2">
+			<skill id="1909" level="1" min_level="85"/> <!-- Острота-->
+			<skill id="1910" level="1" min_level="85"/> <!-- Темные Способности -->
+			<skill id="1911" level="1" min_level="85"/> <!-- Благословенный Ветер -->
+			<skill id="1912" level="1" min_level="85"/> <!-- Бешеное Ускорение -->
+			<skill id="1913" level="1" min_level="85"/> <!-- Высасывание Жизни -->
+		</race>
+		<race id="3">
+			<skill id="1914" level="1" min_level="85"/> <!-- Дикость-->
+			<skill id="1915" level="1" min_level="85"/> <!-- Сила Огня -->
+			<skill id="1916" level="1" min_level="85"/> <!-- Сильная Энергетика -->
+			<skill id="1917" level="1" min_level="85"/> <!-- Стойкость Бессмертия -->
+		</race>
+		<race id="4">
+			<skill id="1919" level="1" min_level="85"/> <!-- Ловкость-->
+			<skill id="1920" level="1" min_level="85"/> <!-- Выносливость -->
+			<skill id="1921" level="1" min_level="85"/> <!-- Благословенная Земля -->
+			<skill id="1922" level="1" min_level="85"/> <!-- Дрожь под Ногами -->
+			<!-- TODO: 4 лвла скилов этих... -->
+			<skill id="19088" level="1" min_level="85"/> <!-- Призвать Осадного Голема -->
+			<skill id="19089" level="1" min_level="85"/> <!-- Призвать Стального Вепря -->
+			<skill id="19090" level="1" min_level="85"/> <!-- Призвать Штурмовое Орудие -->
+		</race>
+		<race id="5">
+			<skill id="1923" level="1" min_level="85"/> <!-- Боевой Инстинкт-->
+			<skill id="1924" level="1" min_level="85"/> <!-- Темная Тишина -->
+			<skill id="1925" level="1" min_level="85"/> <!-- Духовная Защита -->
+			<skill id="1926" level="1" min_level="85"/> <!-- Укрепление Тела -->
+			<skill id="1954" level="1" min_level="85"/> <!-- Укрепление Тела в Полете -->
+		</race>
+	</race_skill_tree>
+</list>

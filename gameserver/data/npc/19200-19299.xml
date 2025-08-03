@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="19200" name="Reep" title="Weapons Merchant">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="199"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19201" name="Garita" title="Accessory Merchant">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.5"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="91"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="1"/>
+		</ai_params>
+	</npc>
+	<npc id="19202" name="Laferon" title="Foreman">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="194"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19203" name="Paion" title="Protector">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="7896"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19204" name="Runant" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="187"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="1"/>
+		</ai_params>
+	</npc>
+	<npc id="19205" name="Ethan" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="158"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19206" name="Cromwell" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="167"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19207" name="Proton" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="166"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19208" name="Dinkey" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="89"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19209" name="Tardyon" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="160"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19210" name="Nathan" title="Defender">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="19.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="161"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19211" name="Tate" title="Carrier">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="162"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="3"/>
+		</ai_params>
+	</npc>
+	<npc id="19212" name="Benis" title="Warehouse Keeper">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="30881"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19213" name="Hoffa" title="Warehouse Chief">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="2504"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19214" name="Rant" title="Warehouse Keeper">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="1511"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19215" name="Rolfe" title="Warehouse Keeper">
+		<set name="aggroRange" value="300"/>
+		<set name="ai_type" value="DwarvenVillageAttack.Dwarvs"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="20903"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="663"/>
+		<set name="baseMAtkSpd" value="334"/>
+		<set name="baseMDef" value="250"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2277"/>
+		<set name="baseMpReg" value="3.000"/>
+		<set name="basePAtk" value="971"/>
+		<set name="basePAtkSpd" value="279"/>
+		<set name="basePDef" value="341"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="17.0"/>
+		<set name="collision_radius" value="8.0"/>
+		<set name="rhand" value="7901"/>
+		<set name="level" value="85"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<faction name="211_instance_2" range="250"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="ignoreAggroDelay" value="true"/>
+			<set name="TargetEnabled" value="false"/>
+			<set name="attackable" value="false"/>
+			<set name="wayType" value="2"/>
+		</ai_params>
+	</npc>
+	<npc id="19216" name="Alter of Evil Spirit Offering Box" title="">
+		<!-- TODO: NEW NPC (AUTOGENERATED!) -->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="680"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="6"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseMDef" value="200000"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2000"/>
+		<set name="baseMpReg" value="2.700"/>
+		<set name="basePAtk" value="8"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="basePDef" value="60000"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="8"/>
+		<set name="collision_height" value="18.50"/>
+		<set name="collision_radius" value="6.50"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="19217" name="Earth Wyrm Trasken" title="Hell's Gate">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="DwarvenVillageAttack.EarthWyrmTrasken"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="18270"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="6"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseMDef" value="200000"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="3567"/>
+		<set name="baseMpReg" value="2.700"/>
+		<set name="basePAtk" value="8"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="basePDef" value="60000"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="1450"/>
+		<set name="collision_radius" value="500"/>
+		<set name="rhand" value="0"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Monster"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+			<set name="showTitle" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="19218" name="noname" title="notitle">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="680"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="6"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseMDef" value="200000"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2000"/>
+		<set name="baseMpReg" value="2.700"/>
+		<set name="basePAtk" value="8"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="basePDef" value="60000"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="collision_height" value="7.00"/>
+		<set name="collision_radius" value="10.00"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Npc"/>
+		<ai_params>
+			<set name="TargetEnabled" value="false"/>
+			<set name="showName" value="false"/>
+		</ai_params>
+	</npc>
+	<npc id="19219" name="Talking Island Decoration NPC" title="Messenger Pigeon">
+		<!-- TODO: NEW NPC (AUTOGENERATED!) -->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseCON" value="43"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseDEX" value="30"/>
+		<set name="baseHpMax" value="680"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="7.500"/>
+		<set name="baseINT" value="21"/>
+		<set name="baseMAtk" value="6"/>
+		<set name="baseMAtkSpd" value="398"/>
+		<set name="baseMDef" value="200000"/>
+		<set name="baseMEN" value="20"/>
+		<set name="baseMpMax" value="2000"/>
+		<set name="baseMpReg" value="2.700"/>
+		<set name="basePAtk" value="8"/>
+		<set name="basePAtkSpd" value="299"/>
+		<set name="basePDef" value="60000"/>
+		<set name="baseRunSpd" value="120"/>
+		<set name="baseSTR" value="40"/>
+		<set name="baseShldDef" value="0"/>
+		<set name="baseShldRate" value="0"/>
+		<set name="baseWIT" value="20"/>
+		<set name="baseWalkSpd" value="8"/>
+		<set name="collision_height" value="18.50"/>
+		<set name="collision_radius" value="6.50"/>
+		<set name="level" value="80"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="shots" value="NONE"/>
+		<set name="texture" value=""/>
+		<set name="type" value="Npc"/>
+	</npc>
+	<npc id="19259" name="Плавильная Печь" title="">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="170.0"/>
+		<set name="collision_height" value="90.5"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="556923"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="25740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19262" name="Kunda" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="tauti.KundaGuard"/>
+		<set name="collision_radius" value="22.0"/>
+		<set name="collision_height" value="46.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="443936"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="23550"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="24256500"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="338796"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="kunda_attacker" range="400"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4410" level="14"/>
+			<skill id="4411" level="13"/>
+			<skill id="4412" level="13"/>
+			<skill id="4413" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+	<npc id="19263" name="Kunda" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="tauti.KundaGuard"/>
+		<set name="collision_radius" value="24.0"/>
+		<set name="collision_height" value="46.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="443936"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="23550"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="13198936"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="184352"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="kunda_attacker" range="400"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4410" level="14"/>
+			<skill id="4411" level="13"/>
+			<skill id="4412" level="13"/>
+			<skill id="4413" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+	<npc id="19264" name="Kunda" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="tauti.KundaGuard"/>
+		<set name="collision_radius" value="24.0"/>
+		<set name="collision_height" value="46.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="443936"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="23550"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="kunda_attacker" range="400"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4410" level="14"/>
+			<skill id="4411" level="13"/>
+			<skill id="4412" level="13"/>
+			<skill id="4413" level="13"/>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+	<npc id="19265" name="Lord Kunda" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="24.0"/>
+		<set name="collision_height" value="60.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="621600000"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2025740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="kunda_attacker" range="900"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+	<npc id="19266" name="Jahak" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="24.0"/>
+		<set name="collision_height" value="63.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="1877539"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="22800"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="kunda_attacker" range="900"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+		<rewardlist type="NOT_RATED_GROUPED">
+			<group chance="100.0">
+				<reward item_id="34899" min="1" max="1" chance="100.0000" />
+			</group>
+		</rewardlist>
+	</npc>
+	<npc id="19270" name="Захак Низкого Уровня" title="">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="16.0"/>
+		<set name="collision_height" value="50.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="621600000"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="2025740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+	<npc id="19279" name="Холодильник" title="">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="170.0"/>
+		<set name="collision_height" value="90.5"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="556923"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="25740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills/>
+	</npc>	
+	<npc id="19280" name="Литьевая Машина для Оружия" title="">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="170.0"/>
+		<set name="collision_height" value="90.5"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="556923"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="25740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills/>
+	</npc>	
+	<npc id="19281" name="Литьевая Машина для Доспехов" title="">
+		<set name="aggroRange" value="0"/>
+		<set name="ai_type" value="CharacterAI"/>
+		<set name="collision_radius" value="170.0"/>
+		<set name="collision_height" value="90.5"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="556923"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="25740"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills/>
+	</npc>
+	<npc id="19287" name="Jahak" title="">
+		<!--L2WT Tauti Confirmed-->
+		<set name="aggroRange" value="200"/>
+		<set name="ai_type" value="Fighter"/>
+		<set name="collision_radius" value="24.0"/>
+		<set name="collision_height" value="63.0"/>
+		<set name="level" value="99"/>
+		<set name="type" value="Monster"/>
+		<set name="baseAtkRange" value="40"/>
+		<set name="baseHpMax" value="1877539"/>
+		<set name="baseHpRate" value="1"/>
+		<set name="baseHpReg" value="8.5"/>
+		<set name="baseMpMax" value="22800"/>
+		<set name="baseMpReg" value="3"/>
+		<set name="baseSTR" value="98"/>
+		<set name="baseCON" value="87"/>
+		<set name="baseDEX" value="83"/>
+		<set name="baseINT" value="11"/>
+		<set name="baseWIT" value="115"/>
+		<set name="baseMEN" value="5"/>
+		<set name="rewardExp" value="0"/>
+		<set name="rewardRp" value="0"/>
+		<set name="rewardSp" value="0"/>
+		<set name="basePAtk" value="4900"/>
+		<set name="basePDef" value="3840"/>
+		<set name="baseMAtk" value="2550"/>
+		<set name="baseMDef" value="825"/>
+		<set name="basePAtkSpd" value="253"/>
+		<set name="baseCritRate" value="4"/>
+		<set name="baseMAtkSpd" value="333"/>
+		<set name="baseRunSpd" value="186"/>
+		<set name="baseWalkSpd" value="50"/>
+		<set name="shots" value="NONE"/>
+		<faction name="tauti_group" range="900"/>
+		<ai_params>
+			<set name="noRandomWalk" value="true"/>
+		</ai_params>
+		<attributes>
+			<defence attribute="fire" value="300"/>
+			<defence attribute="water" value="300"/>
+			<defence attribute="wind" value="300"/>
+			<defence attribute="earth" value="300"/>
+			<defence attribute="holy" value="300"/>
+			<defence attribute="unholy" value="300"/>
+		</attributes>
+		<skills>
+			<skill id="4416" level="6"/>
+			<skill id="5462" level="1"/>
+		</skills>
+	</npc>
+</list>

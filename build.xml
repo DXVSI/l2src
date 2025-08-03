@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2RebellionServer" default="compile" basedir=".">
+    
+    <!-- Свойства проекта -->
+    <property name="src.commons" location="src/commons"/>
+    <property name="src.gameserver" location="src/gameserver"/>
+    <property name="src.loginserver" location="src/loginserver"/>
+    
+    <property name="build" location="build"/>
+    <property name="build.commons" location="build/commons"/>
+    <property name="build.gameserver" location="build/gameserver"/>
+    <property name="build.loginserver" location="build/loginserver"/>
+    
+    <property name="lib" location="lib"/>
+    
+    <!-- Classpath для библиотек -->
+    <path id="lib.classpath">
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+        </fileset>
+    </path>
+    
+    <!-- Classpath для commons -->
+    <path id="commons.classpath">
+        <path refid="lib.classpath"/>
+        <pathelement location="${build.commons}"/>
+    </path>
+    
+    <!-- Инициализация -->
+    <target name="init">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${build.commons}"/>
+        <mkdir dir="${build.gameserver}"/>
+        <mkdir dir="${build.loginserver}"/>
+        <echo message="Создали папки для сборки"/>
+    </target>
+    
+    <!-- Очистка -->
+    <target name="clean">
+        <delete dir="${build}"/>
+        <echo message="Очистили папку сборки"/>
+    </target>
+    
+    <!-- Компиляция commons -->
+    <target name="compile.commons" depends="init">
+        <javac srcdir="${src.commons}" 
+               destdir="${build.commons}"
+               classpathref="lib.classpath"
+               encoding="UTF-8"
+               source="21"
+               target="21"
+               includeantruntime="false">
+        </javac>
+        <echo message="Commons скомпилирован"/>
+    </target>
+    
+    <!-- Компиляция loginserver -->
+    <target name="compile.loginserver" depends="compile.commons">
+        <javac srcdir="${src.loginserver}" 
+               destdir="${build.loginserver}"
+               classpathref="commons.classpath"
+               encoding="UTF-8"
+               source="21"
+               target="21"
+               includeantruntime="false">
+        </javac>
+        <echo message="LoginServer скомпилирован"/>
+    </target>
+    
+    <!-- Компиляция gameserver -->
+    <target name="compile.gameserver" depends="compile.commons">
+        <javac srcdir="${src.gameserver}" 
+               destdir="${build.gameserver}"
+               classpathref="commons.classpath"
+               encoding="UTF-8"
+               source="21"
+               target="21"
+               includeantruntime="false">
+        </javac>
+        <echo message="GameServer скомпилирован"/>
+    </target>
+    
+    <!-- Компиляция всего -->
+    <target name="compile" depends="compile.commons,compile.loginserver,compile.gameserver">
+        <echo message="Проект полностью скомпилирован"/>
+    </target>
+    
+    <!-- Запуск LoginServer -->
+    <target name="run.loginserver" depends="compile.loginserver">
+        <java classname="org.mmocore.loginserver.LoginServer" 
+              fork="true"
+              dir="loginserver">
+            <classpath>
+                <path refid="lib.classpath"/>
+                <pathelement location="${build.commons}"/>
+                <pathelement location="${build.loginserver}"/>
+                <pathelement location="loginserver/config"/>
+            </classpath>
+            <jvmarg value="-server"/>
+            <jvmarg value="-Dfile.encoding=UTF-8"/>
+            <jvmarg value="-Xms256m"/>
+            <jvmarg value="-Xmx512m"/>
+        </java>
+    </target>
+    
+    <!-- Запуск GameServer -->
+    <target name="run.gameserver" depends="compile.gameserver">
+        <java classname="org.mmocore.gameserver.GameServer" 
+              fork="true"
+              dir="gameserver">
+            <classpath>
+                <path refid="lib.classpath"/>
+                <pathelement location="${build.commons}"/>
+                <pathelement location="${build.gameserver}"/>
+                <pathelement location="gameserver/config"/>
+            </classpath>
+            <jvmarg value="-server"/>
+            <jvmarg value="-Dfile.encoding=UTF-8"/>
+            <jvmarg value="-Xms1024m"/>
+            <jvmarg value="-Xmx2048m"/>
+        </java>
+    </target>
+    
+    <!-- Справка -->
+    <target name="help">
+        <echo message="Доступные команды:"/>
+        <echo message="  ant clean           - очистить сборку"/>
+        <echo message="  ant compile          - скомпилировать весь проект"/>
+        <echo message="  ant run.loginserver  - запустить LoginServer"/>
+        <echo message="  ant run.gameserver   - запустить GameServer"/>
+    </target>
+    
+</project>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<weapon id="35000" name="Копье таути">
+		<set name="icon" value="icon.weapon_tauti_two_hand_pole_i01"/>
+		<set name="type" value="POLE"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="crystal_count" value="100"/>
+		<set name="crystal_type" value="R"/>
+		<set name="weight" value="1300"/>
+		<set name="price" value="3000000"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<skills>
+			<skill id="8879" level="1"/>
+			<skill id="9459" level="1"/>
+		</skills>
+		<for>
+			<add order="0x08" stat="pAtk" value="629.0"/>
+			<add order="0x08" stat="mAtk" value="322.0"/>
+			<add order="0x10" stat="accCombat" value="8.0"/>
+			<add order="0x08" stat="pAtkSpd" value="325.0"/>
+			<enchant value="0" order="0x0C" stat="pAtk"/>
+			<enchant value="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</weapon>
+	<weapon id="35001" name="Парные топоры таути">
+		<set name="icon" value="icon.weapon_tauti_dual_axe_i01"/>
+		<set name="type" value="DUALBLUNT"/>
+		<set name="ex_type" value="DUAL_BLUNT_WEAPON"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<set name="crystal_count" value="100"/>
+		<set name="crystal_type" value="R"/>
+		<set name="weight" value="1700"/>
+		<set name="price" value="3000000"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<skills>
+			<skill id="8879" level="1"/>
+			<skill id="9459" level="1"/>
+		</skills>
+		<for>
+			<add order="0x08" stat="pAtk" value="766.0"/>
+			<add order="0x08" stat="mAtk" value="322.0"/>
+			<add order="0x10" stat="accCombat" value="8.0"/>
+			<add order="0x08" stat="pAtkSpd" value="325.0"/>
+			<enchant value="0" order="0x0C" stat="pAtk"/>
+			<enchant value="0" order="0x0C" stat="mAtk"/>
+		</for>
+	</weapon>
+	<weapon id="35095" name="Темное Острие Хелиоса">
+		<!--Done by ALF-->
+		<set name="icon" value="icon.weapon_stanpid_i10"/>
+		<set name="weight" value="1520"/>
+		<set name="type" value="DAGGER"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="610"/>
+			<add stat="mAtk" order="0x10" value="303"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="35096" name="Темный Резак Хелиоса">
+		<!--Done by ALF-->
+		<set name="icon" value="icon.weapon_plenitas_i10"/>
+		<set name="weight" value="1520"/>
+		<set name="type" value="SWORD"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="698"/>
+			<add stat="mAtk" order="0x10" value="303"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="35097" name="Темный Эспадон Хелиоса">
+		<!--Done by ALF-->
+		<set name="icon" value="icon.weapon_bauen_i10"/>
+		<set name="weight" value="1740"/>
+		<set name="type" value="SWORD"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="849"/>
+			<add stat="mAtk" order="0x10" value="303"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="35098" name="Темный Мститель Хелиоса">
+		<!--Done by ALF-->
+		<set name="icon" value="icon.weapon_qutram_i10"/>
+		<set name="weight" value="1740"/>
+		<set name="type" value="BLUNT"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="698"/>
+			<add stat="mAtk" order="0x10" value="303"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+	<weapon id="35099" name="Темный Воитель Хелиоса">
+		<!--Done by ALF-->
+		<set name="icon" value="icon.weapon_durga_i10"/>
+		<set name="weight" value="1550"/>
+		<set name="type" value="DUALFIST"/>
+		<set name="crystal_type" value="R99"/>
+		<set name="crystal_count" value="2"/>
+		<set name="soulshots" value="1"/>
+		<set name="spiritshots" value="1"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" value="849"/>
+			<add stat="mAtk" order="0x10" value="303"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+			<enchant stat="pAtk" order="0x0C" value="0"/>
+		</for>
+	</weapon>
+</list>

@@ -1,0 +1,23 @@
+package org.mmocore.loginserver.gameservercon.gspackets;
+
+import org.mmocore.loginserver.gameservercon.GameServer;
+import org.mmocore.loginserver.gameservercon.ReceivablePacket;
+
+public class PlayerInGame extends ReceivablePacket
+{
+	private String account;
+
+	@Override
+	protected void readImpl()
+	{
+		account = readS();
+	}
+
+	@Override
+	protected void runImpl()
+	{
+		GameServer gs = getGameServer();
+		if (gs.isAuthed())
+			gs.addAccount(account);
+	}
+}

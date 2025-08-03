@@ -1,0 +1,44 @@
+package org.mmocore.gameserver.skills.skillclasses;
+
+import org.mmocore.commons.collections.GArray;
+import org.mmocore.gameserver.cache.Msg;
+import org.mmocore.gameserver.model.Creature;
+import org.mmocore.gameserver.model.Skill;
+import org.mmocore.gameserver.model.instances.TrapInstance;
+import org.mmocore.gameserver.templates.StatsSet;
+
+public class DefuseTrap extends Skill
+{
+	public DefuseTrap(StatsSet set)
+	{
+		super(set);
+	}
+
+	@Override
+	public boolean checkCondition(Creature activeChar, Creature target, boolean forceUse, boolean dontMove, boolean first)
+	{
+		if (target == null || !target.isTrap())
+		{
+			activeChar.sendPacket(Msg.INVALID_TARGET);
+			return false;
+		}
+
+		return super.checkCondition(activeChar, target, forceUse, dontMove, first);
+	}
+
+	@Override
+	public void useSkill(Creature activeChar, GArray<Creature> targets)
+	{
+		for (Creature target : targets)
+			if (target != null && target.isTrap())
+			{
+
+				TrapInstance trap = (TrapInstance) target;
+				if (trap.getLevel() <= getPower())
+					trap.deleteMe();
+			}
+
+		if (isSSPossible())
+			activeChar.unChargeShots(isMagic());
+	}
+}

@@ -1,0 +1,51 @@
+# Сборка
+build/
+target/
+*.class
+*.jar
+*.war
+
+# Логи
+*.log
+log/
+
+# Конфигурационные файлы с паролями
+**/config/*.properties
+!**/config/default/*.properties
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# База данных
+*.db
+*.sqlite
+
+# Бэкапы
+backup/
+*.backup
+
+# Скомпилированные файлы
+*.o
+*.so
+*.dll
+*.exe
+
+# Кэш
+.cache/
+*.cache 
