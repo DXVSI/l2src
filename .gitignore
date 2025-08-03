@@ -2,16 +2,20 @@
 build/
 target/
 *.class
+# Исключаем JAR файлы, но разрешаем их в lib/
 *.jar
+!lib/*.jar
 *.war
 
 # Логи
 *.log
 log/
 
-# Конфигурационные файлы с паролями
+# Конфигурационные файлы с паролями (исключаем только основные конфиги)
 **/config/*.properties
 !**/config/default/*.properties
+# Разрешаем примеры конфигурации
+!**/config/*.properties.example
 
 # Временные файлы
 *.tmp
